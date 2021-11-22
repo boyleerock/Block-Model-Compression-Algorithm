@@ -6,11 +6,11 @@
 - The Final Presentation: https://youtu.be/UnH8W6-WjKw
 
 - Initial report >> [click here](https://github.com/boyleerock/Block-Model-Compression-Algorithm/blob/main/assignment/initial_report_BLOCKS7PG%20.pdf)
-- Final report >> [click here](https://github.com/boyleerock/Block-Model-Compression-Algorithm/blob/main/assignment/final-report_BLOCKSPG7_1806297.pdf)
 - retrospective1 report >> [click here](https://github.com/boyleerock/Block-Model-Compression-Algorithm/blob/main/assignment/retrospective1_BLOCKS7PG_1806297.pdf)
 - retrospective2 report >> [click here](https://github.com/boyleerock/Block-Model-Compression-Algorithm/blob/main/assignment/retrospective2_BLOCKS7PG_1806297.pdf)
 - retrospective3 report >> [click here](https://github.com/boyleerock/Block-Model-Compression-Algorithm/blob/main/assignment/retrospective3_BLOCKS7PG_1806297.pdf)
 - retrospective4 report >> [click here](https://github.com/boyleerock/Block-Model-Compression-Algorithm/blob/main/assignment/retrospective4_BLOCKS7PG_1806297.pdf)
+- Final report >> [click here](https://github.com/boyleerock/Block-Model-Compression-Algorithm/blob/main/assignment/final-report_BLOCKSPG7_1806297.pdf)
 
 The document `software_architecture.pdf` in the Documentation directory contains an overview of the software architecture and the algorithms developed.
 
