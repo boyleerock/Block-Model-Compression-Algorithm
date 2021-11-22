@@ -1,4 +1,4 @@
-# Team-Lucky-Seven-Blocks7---Block-Model-Compression-Algorithm
+# Block-Model-Compression-Algorithm by Team-Lucky-Seven-Blocks7
 
 ### --- Software Engineering Project 2021, Semester 2 ---
 
